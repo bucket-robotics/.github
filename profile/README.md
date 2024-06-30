@@ -1,7 +1,36 @@
 # [Bucket Robotics](https://bucket.bot)
 
-> Robotic vision For manufacturing
+## Overview
 
+**Robotic Vision for Manufacturing**  
 We use high-quality cameras, cost-effective edge computing, and 3D perception models to deliver an easy-to-integrate perception system for robotics applications.
 
-Check out [our website](https://bucket.bot) for more information.
+## Features
+
+- **High-Quality Cameras:** Utilize top-tier imaging technology to ensure precision and reliability.
+- **Cost-Effective Edge Computing:** Efficient processing capabilities without breaking the bank.
+- **3D Perception Models:** Advanced models for accurate and reliable 3D perception in various manufacturing environments.
+
+## Benefits
+
+- **Ease of Integration:** Designed to be seamlessly integrated into existing robotic systems.
+- **Scalability:** Suitable for small workshops to large manufacturing plants.
+- **Flexibility:** Adaptable to various applications within the manufacturing sector.
+
+## Use Cases
+
+- **FOD Detection:** Identifying foreign objects in manufacturing cells.
+- **Enhanced Robotic Manipulator Autonomy:** Providing detections to enhance the autonomy of robotic arms through improved perception.
+- **Predictive Analytics:** Providing visual data for predictive maintenance and analytics.
+
+## Getting Started
+
+Currently, Bucket Robotics is developing in a private monorepo. For more detailed information, visit our [website](https://www.bucket.bot).
+
+## Contact
+
+For inquiries, please contact us at [connect@bucket.bot](mailto:connect@bucket.bot).
+
+## Contribution
+
+At this time, we are not accepting external contributions. Stay tuned for future updates.
