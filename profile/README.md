@@ -24,8 +24,9 @@ We use high-quality cameras, cost-effective edge computing, and 3D perception mo
 - **Predictive Analytics:** Providing visual data for predictive maintenance and analytics.
 
 ## Getting Started
+Customers should check out our [Knowledge Base](https://bucket-robotics.notion.site/ba8f273e048346498d50537a32c5dd0f?v=e37ee1947854461e94bc86f993289ece&pvs=4) for information on how to interact with their Bucket Mini One and Bucket Robotics' tools.
 
-Currently, Bucket Robotics is developing in a private monorepo. For more detailed information, visit our [website](https://www.bucket.bot).
+Currently, Bucket Robotics is developing in a private monorepo. For more detailed sales information, visit our [website](https://www.bucket.bot).
 
 ## Contact
 
