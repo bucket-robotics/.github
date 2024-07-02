@@ -33,4 +33,4 @@ For inquiries, please contact us at [connect@bucket.bot](mailto:connect@bucket.b
 
 ## Contribution
 
-At this time, we are not accepting external contributions. Stay tuned for future updates.
+At this time, we are not accepting external contributions.
